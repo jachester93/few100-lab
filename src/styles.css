@@ -1,3 +1,16 @@
-h1 {
-    color:red;
+.indent {
+    margin-left: 25px;
+}
+
+.fixedWidth {
+    width: 25%;
+}
+
+.bigText {
+    font-size: large;
+}
+
+#infoBox div {
+    border: solid;
+    border-radius: 1px;
 }
